@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_renice"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_renice"
+path = "src/lib.rs"
